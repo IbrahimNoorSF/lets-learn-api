@@ -1,0 +1,137 @@
+[
+    {
+        "key": "usa",
+        "image": "https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png",
+        "name": "United States",
+        "gdp": "20.81 Trillion",
+        "population": 333384277,
+        "capital": "Washington, D.C.",
+        "current president": "Joe Biden"
+    },
+    {
+        "key": "cn",
+        "image": "https://www.countryflags.com/wp-content/uploads/china-flag-png-large.png",
+        "name": "China",
+        "gdp": "$14.86 Trillion",
+        "population": 1439323776,
+        "capital": "Beijing",
+        "current president": "Xi Jinping"
+    },
+    {
+        "key": "jp",
+        "image": "https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png",
+        "name": "Japan",
+        "gdp": "$4.91 Trillion",
+        "population": 125999832,
+        "capital": "Tokyo",
+        "current president": "Shinzo Abe"
+    },
+    {
+        "key": "de",
+        "image": "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png",
+        "name": "Germany",
+        "gdp": "$3.78 Trillion",
+        "population": 84113506,
+        "capital": "Berlin",
+        "current president": "Frank-Walter Steinmeier"
+    },
+    {
+        "key": "uk",
+        "image": "https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png",
+        "name": "United Kingdom",
+        "gdp": "$2.64 Trillion",
+        "population": 68324581,
+        "capital": "London",
+        "current prime minister": "Boris Johnson"
+    },
+    {
+        "key": "in",
+        "image": "https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png",
+        "name": "India",
+        "gdp": "$2.59 trillion",
+        "population": 1396679683,
+        "capital": "New Delhi",
+        "current president": "Ram Nath Kovind"
+    },
+    {
+        "key": "fr",
+        "image": "https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png",
+        "name": "France",
+        "gdp": "$2.55 Trillion",
+        "population": 65451212,
+        "capital": "Paris",
+        "current president": "Emmanuel Macron"
+    },
+    {
+        "key": "it",
+        "image": "https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png",
+        "name": "Italy",
+        "gdp": "$1.85 Trillion",
+        "population": 60352399,
+        "capital": "Rome",
+        "current president": "Sergio Mattarella"
+    },
+    {
+        "key": "ca",
+        "image": "https://www.countryflags.com/wp-content/uploads/canada-flag-png-large.png",
+        "name": "Canada",
+        "gdp": "$1.60 trillion",
+        "population": 60352399,
+        "capital": "Ottawa",
+        "current prime minister": "Justin Trudeau"
+    },
+    {
+        "key": "kr",
+        "image": "https://www.countryflags.com/wp-content/uploads/south-korea-flag-png-large.png",
+        "name": "South Korea",
+        "gdp": "$1.59 Trillion",
+        "population": 51323238,
+        "capital": "Seoul",
+        "current president": "Moon Jae-in"
+    },
+    {
+        "key": "ru",
+        "image": "https://www.countryflags.com/wp-content/uploads/russia-flag-png-large.png",
+        "name": "Russia",
+        "gdp": "$1.46 Trillion",
+        "population": 146011466,
+        "capital": "Moscow",
+        "current president": "Vladimir Putin"
+    },
+    {
+        "key": "br",
+        "image": "https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png",
+        "name": "Brazil",
+        "gdp": "$1.36 Trillion",
+        "population": 214417199,
+        "capital": "Brasilia",
+        "current president": "Jair Bolsonaro"
+    },
+    {
+        "key": "au",
+        "image": "https://www.countryflags.com/wp-content/uploads/flag-jpg-xl-9-2048x1024.jpg",
+        "name": "Australia",
+        "gdp": "$1.33 Trillion",
+        "population": 25704340,
+        "capital": "Canberra",
+        "current president": "Scott Morrison"
+    },
+    {
+        "key": "es",
+        "image": "https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png",
+        "name": "Spain",
+        "gdp": "$1.25 Trillion",
+        "population": 46777014,
+        "capital": "Madrid",
+        "current king": "Felipe VI of Spain"
+    },
+    {
+        "key": "id",
+        "image": "https://www.countryflags.com/wp-content/uploads/indonesia-flag-png-large.png",
+        "name": "Indonesia",
+        "gdp": "$1.09 Trillion",
+        "population": 277078037,
+        "capital": "Jakarta",
+        "current president": "Joko Widodo"
+    }
+]
